@@ -4,6 +4,7 @@ import 'constants.dart'; //this Constant is hoe you can get some funcationalitie
 import 'home.dart';
 
 void main() {
+  print("hello");
   runApp(const MyApp());
 }
 
